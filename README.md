@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thathasara</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **ManManagement System**
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **thathsara0218@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
