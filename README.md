@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thathasara</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Automation Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thathsara1999&label=Profile%20views&color=0e75b6&style=flat" alt="thathsara1999" /> </p>
-
-- 🔭 I’m currently working on **Chat App**
 
 - 📫 How to reach me **thathsara0218@gmail.com**
 
